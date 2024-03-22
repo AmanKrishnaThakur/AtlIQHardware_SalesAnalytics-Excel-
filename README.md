@@ -1,7 +1,7 @@
 # AtliQ Hardware Sales & Finance Analytics
 
 ## Introduction
-Welcome to thecodebasics Advanced Excel project, tailored specifically for AtliQ Hardware. This project dives deep into the intricacies of sales and financial analytics, empowering AtliQ Hardware to gain invaluable insights into its operations.
+Welcome to the codebasics Advanced Excel project, tailored specifically for AtliQ Hardware. This project dives deep into the intricacies of sales and financial analytics, empowering AtliQ Hardware to gain invaluable insights into its operations.
 
 ## Project Objective
 The primary goal of this project was to meticulously analyze a vast dataset comprising over half a million unorganized sales records. Employing Extract, Transform, Load (ETL) techniques, the aim was to craft various sales and finance analytics reports for AtliQ Hardware, driving enhancements in company performance, particularly focusing on net sales and net gross margins.
